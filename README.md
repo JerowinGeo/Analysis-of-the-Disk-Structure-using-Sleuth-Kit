@@ -23,7 +23,8 @@ Sleuth Kit Disk Analysis Commands
 ### Step2:
 
   ●	Verify Sleuthkit is installed.
- ![image](https://github.com/user-attachments/assets/6d64d5e0-10f9-49c3-94cd-bd1aa44ecac8)
+  
+![image](https://github.com/user-attachments/assets/6d64d5e0-10f9-49c3-94cd-bd1aa44ecac8)
 
 
 ### Step3:
@@ -102,7 +103,7 @@ Sleuth Kit Disk Analysis Commands
   
 ![image](https://github.com/user-attachments/assets/f9598179-fea4-4bcd-99ce-d4024419aab9)
 
- ![image](https://github.com/user-attachments/assets/3fac700b-0061-4f58-8a0b-cf1583be2977)
+![image](https://github.com/user-attachments/assets/3fac700b-0061-4f58-8a0b-cf1583be2977)
 
 
   #### OUTPUT SUMMARY:
