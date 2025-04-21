@@ -192,6 +192,7 @@ Sleuth Kit Disk Analysis Commands
   ●	Use img_stat – Sleuth Kit utility for viewing image file metadata.
   
   ●	Command:  img_stat  “file path”
+  
 ![image](https://github.com/user-attachments/assets/da040a59-7bb1-4a19-90b0-8511101d6e8a)
 
 
